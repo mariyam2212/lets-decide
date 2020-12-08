@@ -1,0 +1,8 @@
+.mainContainer{
+    text-align: center;
+    flex-direction: column;
+}
+.mainbutton{
+    width: 250px;
+    margin:20px !important;
+}
